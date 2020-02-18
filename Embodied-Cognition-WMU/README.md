@@ -3,4 +3,4 @@ Part of a reading group at Western Michigan University, led by professor Daniel 
 
 
 ### Meetings
-- 02.17 : Embodied Cognition Field Guide; Six Views on Embodied Cognition; Artificial Cognitive Systems (Vernon), CH 2 & 5
+- 02.24 : Embodied Cognition Field Guide; Six Views on Embodied Cognition; Artificial Cognitive Systems (Vernon), CH 2 & 5
