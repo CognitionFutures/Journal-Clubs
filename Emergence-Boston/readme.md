@@ -7,6 +7,8 @@ Dynalist:
 
 
 ## 2020 Meetings
+- 2020.05.27 - Morone, Flaviano, Ian Leifer, and Hernán A. Makse. "Fibration symmetries uncover the building blocks of biological networks." Proceedings of the National Academy of Sciences 117, no. 15 (2020): 8306-8314.
+https://www.pnas.org/content/117/15/8306.short
 - 2020.05.20 - Ecology, "[Emergence in Ecological Systems](https://www.researchgate.net/publication/226820515_Emergence_in_Ecological_Systems)" 
 - 2020.05.13 - Krakauer, David, Nils Bertschinger, Eckehard Olbrich, Jessica C. Flack, and Nihat Ay. "The information theory of individuality." Theory in Biosciences (2020): 1-15.
 - 2020.05.06 - Levels (Resnick, StarLogo, Ryan)
