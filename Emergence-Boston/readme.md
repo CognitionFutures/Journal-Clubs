@@ -5,6 +5,9 @@ Led by Dr Yohan John
 
 Dynalist: 
 
+### Related Content
+- https://axispraxis.wordpress.com/2020/05/27/what-is-emergence-and-why-should-we-care-about-it/ Yohan John Blogpost
+
 
 ## 2020 Meetings
 - 2020.05.27 - Morone, Flaviano, Ian Leifer, and Hernán A. Makse. "Fibration symmetries uncover the building blocks of biological networks." Proceedings of the National Academy of Sciences 117, no. 15 (2020): 8306-8314.
