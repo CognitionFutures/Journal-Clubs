@@ -3,4 +3,6 @@ Part of a reading group at Western Michigan University, led by professor Daniel 
 
 
 ### Meetings
+- 06.05 : Chapters 7-10: Chemero, Radical Embodied Cognition
+- ( To Be Added)
 - 02.24 : Embodied Cognition Field Guide; Six Views on Embodied Cognition; Artificial Cognitive Systems (Vernon), CH 2 & 5
