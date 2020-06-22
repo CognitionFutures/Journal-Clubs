@@ -3,7 +3,8 @@ Part of a reading group at Western Michigan University, led by professor Daniel 
 
 
 ### Meetings
-- 06.17: The Embodied Mind,, Part 2
+- 06.17: The Embodied Mind, Part 3
+- 06.17: The Embodied Mind, Part 2
 - 06.10: The Embodied Mind (Varela), Part 1
 - 06.05 : Chapters 7-10: Chemero, Radical Embodied Cognition
 - ( To Be Added)
