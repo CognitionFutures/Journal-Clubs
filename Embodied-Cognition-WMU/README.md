@@ -3,6 +3,8 @@ Part of a reading group at Western Michigan University, led by professor Daniel 
 
 
 ### Meetings
+- 07.03: The Embodied Mind, Part 4
+- 06.24: The Embodied Mind, Part 3
 - 06.17: The Embodied Mind, Part 3
 - 06.17: The Embodied Mind, Part 2
 - 06.10: The Embodied Mind (Varela), Part 1
