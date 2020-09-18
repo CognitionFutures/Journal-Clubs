@@ -1,4 +1,4 @@
-# Embodied Cognition Reading Group
+# Interdisciplinary Humanities Reading Group
 Part of a reading group at Western Michigan University, led by professor Ryan Lemasters. My remote presenence or involvement kindly facilitated by Anson Lim.
 
 
