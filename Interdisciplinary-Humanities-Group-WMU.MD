@@ -3,6 +3,9 @@ Part of a reading group at Western Michigan University, led by professor Ryan Le
 
 
 ### Meetings
+2021
+- 01.?? Enactivism & Perception in the Human Eye 
+2020
 - 11.27: The Past, Present and Future of Time-Consciousness: From Husserl to Varela and Beyond - Shaun Gallagher
   - and Temporal experience from a 4E perspective - Melina Gastelum
 - 09.25: Active inference, enactivism and the hermeneutics of social cognition. Shaun Gallagher, Micah Allen
